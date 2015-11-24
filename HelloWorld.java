@@ -23,6 +23,7 @@ public class HelloWorld {
         System.out.println("Hello, World");
         System.out.println("Em dic David");
         System.out.println("Hem esborrat linies innecessaries!");
+        System.out.println("12345");
     }
 
 }
