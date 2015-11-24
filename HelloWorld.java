@@ -22,13 +22,8 @@ public class HelloWorld {
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello, World");
         System.out.println("Em dic David");
-        wgkrneklgneg
-                regnehnerjhnetj
-                rnejnhrj
-                        nhjr
-                        enhj
-                                qenhe
-
+        System.out.println("Hem esborrat linies innecessaries!");
+        System.out.println("12345");
     }
 
 }
